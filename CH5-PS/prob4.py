@@ -1,0 +1,5 @@
+s = set()
+s.add(22)
+s.add(22.0)
+s.add('41')
+print(len(s))

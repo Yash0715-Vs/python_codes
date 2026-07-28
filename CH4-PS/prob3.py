@@ -1,0 +1,2 @@
+a=("yash",22,"yashi")
+# a[2] = 4 this will give an error because tuples are immutable in Python. You cannot change the value of an element in a tuple after it has been created. If you want to modify the value, you would need to create a new tuple with the desired values.
