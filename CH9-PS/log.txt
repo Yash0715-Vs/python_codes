@@ -1,0 +1,5 @@
+Cost Efficiency: Multiple users share the same infrastructure, reducing operational costs.
+Scalability: Easily supports a growing number of python tenants.
+Efficient Resource Utilization: Maximizes the use of computing and storage resources.
+Simplified Maintenance: Software updates and maintenance are performed once for all tenants.
+Easy Deployment: New tenants can be added quickly without major infrastructure changes.
