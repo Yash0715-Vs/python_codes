@@ -7,6 +7,4 @@ class student:
     def display(self):
         print(self.name)
 
-if __name__ == "__main__":
-    print("Running as Script")
 
